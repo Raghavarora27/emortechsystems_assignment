@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,700,900");
+
+body {
+  position: relative;
+  min-width: 1440px;
+  height: 1155px;
+  background: #f2f2f2;
+}
+
+.myheader {
+  min-width: 1440px;
+  height: 104px;
+  background: #33a0d9;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+}
+
+#new {
+  @font-face {
+    font-family: "Avenir Next";
+    src: url("http://www.yoursite.com/fonts/Avenir_Next.otf"); /* File to be stored at your site */
+  }
+}
+
+.Notvisible{
+  display: none;
+}
